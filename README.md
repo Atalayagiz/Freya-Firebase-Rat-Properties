@@ -2,12 +2,16 @@
 Features for the new upcoming Firebase rat.
 
 Why Firebase?
+
 Because using Google Firebase is extremely easy and does not require a port. On top of that, it allows us to do almost anything.
 
 How will I use it?
+
 A video on how to install will be coming soon when the rat is released. By the way, another rat using IP - PORT is on the way.
 
 Commands:
+
+
 !ScreenShot
 !Upload & Execute
 !Download
@@ -22,6 +26,8 @@ Commands:
 !Delete file
 
 Stub:
+
+
 Encrypted Communication
 Critical Process
 Startup
